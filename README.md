@@ -1,7 +1,7 @@
 # RestartWarnings
-This is my first release and i thought i should help out and give back to the community. Heres a restart warning script i put together. Later on i am going to be supporting warning sounds that will play to ensure all players know that a restart is coming. No more excuses !
+This is my first release and I thought I should help out and give back to the community. Here's a restart warning script I put together. Later on I am going to be supporting warning sounds that will play to ensure all players know that a restart is coming. No more excuses!
 
-inside your InitServer.sqf (Located inside the root off the mission file)
+Inside your InitServer.sqf (Located inside the root of the mission file)
 [] execVM "EXPClient\EXP_RestartWarnings.sqf"
 
 Now copy the contents of the download into your mission file! It should go Exile.Altis > EXPClient > EXP_RestartWarnings.sqf
